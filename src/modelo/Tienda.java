@@ -10,6 +10,7 @@ public class Tienda {
 
     public Tienda() {
         usuarios.add(new Administrador(1, "Admin", "admin@tienda.com", "1234"));
+        usuarios.add(new Cliente(1, "usuario", "usuario@usuario.com", "1234"));
         catalogo.add(new Producto(101, "Laptop Pro", "Potente", 1500.0, 10, "Electrónica"));
         catalogo.add(new Producto(102, "Mouse Optico", "Ergonómico", 25.0, 50, "Accesorios"));
     }
