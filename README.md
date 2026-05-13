@@ -12,10 +12,10 @@ instrucciones:
 -Hacer fork, abrir desde el ide y ejecutar desde la clase  main
 -para iniciar la aplicacion se debe especificar:
 para clientes
--Usuario: Cliente Contraseña: Cliente
+-Usuario: usuario@usuario.com Contraseña: 1234
 
 para admins
--Usuario: Admin Contraseña: Admin
+-Usuario: admin@tienda.com Contraseña: 1234
 
 Tecnologias:
 -En este proyecto se utilizaron tecnologias como son java swing y java ademas de trabajarse en el ide NetBeans
